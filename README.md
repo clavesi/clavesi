@@ -1,6 +1,6 @@
 ```python
 try:
-    Code()
-except Error:
-    StackOverflow(Error)
+    code()
+except Error as e:
+    stackoverflow(e)
 ```
