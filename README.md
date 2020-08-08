@@ -13,7 +13,6 @@ Just a student trying to learn as much as possible
 - 😍 Python
 - 👾 C#
 - 😤 JavaScript
-- 🎯 Dart
 - 😁 More to come
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clavesi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
