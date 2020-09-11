@@ -15,6 +15,4 @@ Just a student trying to learn as much as possible
 - 😤 JavaScript
 - 😁 More to come
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clavesi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Take C# amount with a grain of salt...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clavesi&layout=compact&hide=c#)](https://github.com/anuraghazra/github-readme-stats)
