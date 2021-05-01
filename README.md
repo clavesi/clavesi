@@ -1,6 +1,6 @@
 # 👋 I'm Clavesi
 
-<img src="https://github.com/clavesi/clavesi/blob/master/img/profile-pic-2020-color.png?raw=true" align="left" width="200" height="200" />
+<img src="https://github.com/clavesi/clavesi/blob/master/img/profile-pic.png?raw=true" align="left" width="200" height="200" />
 
 <a href="https://github.com/clavesi"><img src="https://github.com/clavesi/clavesi/blob/master/img/github.png?raw=true" width="50" height="50" /></a>
 
@@ -8,12 +8,10 @@
 
 <a href="https://www.youtube.com/channel/UCOcfPlsNiMSjtPpYuso48pw"><img src="https://github.com/clavesi/clavesi/blob/master/img/youtube.png?raw=true" width="50" height="50" /></a>
 
-Just a student trying to learn as much as possible
+student who programs and games and sometimes programs games :) | he/him
 
 - 😍 Python
 - 👾 C#
 - 😤 JavaScript
 - 🎯 Dart
 - 😁 More to come
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clavesi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
