@@ -13,5 +13,4 @@ student who programs and games and sometimes programs games :) | he/him
 - 😍 Python
 - 👾 C#
 - 😤 JavaScript
-- 🎯 Dart
 - 😁 More to come
