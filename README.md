@@ -16,25 +16,20 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
-<br />
 
 ---
 
-<br />
 <h2 align="center">My favorite projects 💻</h2>
 <p align=center>
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ffmpeg-automated-editor&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ytplaylist-music-copyright&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=coronavirus-map&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
-<br />
 
 ---
 
-<br />
 <h2 align=center>About Me</h2>
 <p align=center>I'm a high school student who's been interested in programming and computers since I was a child. I started learning to program from a local college's child bootcamp in the 4th grade and ever since then, I couldn't stop.</p>
-<br />
 
 ---
 
