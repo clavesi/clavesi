@@ -28,6 +28,7 @@
 <h2 align="center">My favorite projects 💻</h2>
 <p align=center>
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=coronavirus-map&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=hundred-problems&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ffmpeg-automated-editor&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ytplaylist-music-copyright&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
