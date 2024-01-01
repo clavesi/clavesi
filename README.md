@@ -4,7 +4,8 @@
 <p align=center>
     <a href="https://www.youtube.com/channel/UCOcfPlsNiMSjtPpYuso48pw"><img src="https://img.shields.io/badge/YouTube-e52d27?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp
     <a href="https://twitter.com/clavesii"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp
-    <a href="https://www.twitch.tv/clavesi"><img src="https://img.shields.io/badge/Twitch-651fff?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+    <a href="https://www.twitch.tv/clavesi"><img src="https://img.shields.io/badge/Twitch-651fff?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fclavesi.bsky.social">
 </p>
 
 <p align=center>Student who programs and games and sometimes programs games :) | he/him</p>
