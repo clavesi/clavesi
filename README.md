@@ -12,11 +12,11 @@
 <p align=center>Student who programs and games and sometimes programs games :) | he/him</p>
 
 <p align=center>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" color="#CE412B"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTM5L-%23e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23f7df1e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=white&color=%233A0091">
 </p>
 
 ---
