@@ -13,24 +13,14 @@
 
 <p align=center>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" color="#CE412B"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     
 </p>
 
 ---
 
 <h2 align=center>About Me</h2>
-<p> I'm a senior in high school. I first learned to program from a local college's bootcamp in the fourth grade and since then, I've been addicted. I began devoting more time to it starting in high school. I run a <a href="https://www.youtube.com/channel/UCOcfPlsNiMSjtPpYuso48pw">YouTube channel<a/> where I post devlogs of some of my projects.</p>
-<p> I'm most experienced with Python and C# (through Unity), although I've got a solid foundation with Flutter and Vue.js as well.</p>
-
----
-
-<h2 align="center">My favorite projects 💻</h2>
-<p align=center>
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=coronavirus-map&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=hundred-problems&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ffmpeg-automated-editor&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Clavesi&repo=ytplaylist-music-copyright&theme=radical&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</p>
+<p> I'm a college student. I first learned to program from a local college's bootcamp in the fourth grade and since then, I've been addicted. I began devoting more time to it starting in high school. I run a <a href="https://www.youtube.com/channel/UCOcfPlsNiMSjtPpYuso48pw">YouTube channel<a/> where I post devlogs of some of my projects.</p>
+<p> I'm most experienced with Python, C# (through Unity), and Rust, although I've worked with Flutter and web dev with frameworks like React, Vue, and (mostly) Svelte.</p>
