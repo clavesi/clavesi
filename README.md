@@ -7,5 +7,5 @@ I'm a Computer Science & Mathematics student who's always looking to learn as mu
 - 🔧 Git, CMake, Docker, Postman, Supabase
 
 ## 🚀 Current Projects
-- [🔲 Vulkan Engine](https://github.com/clavesi/vulkan-glfw) — Currently learning how to make a rendering engine with Vulkan and GLFW.
+- [🔲 Vulkan Engine](https://github.com/clavesi/vulkan-engine) — Currently learning how to make a rendering engine with Vulkan and GLFW.
 - [📊 Omnilog](https://github.com/clavesi/omnilog) — A media-tracking platform inspired by Letterboxd.
